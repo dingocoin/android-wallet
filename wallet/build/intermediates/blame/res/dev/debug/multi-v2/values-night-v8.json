@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\incremental\\mergeDevDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\values-night\\colors.xml",
+                    "from": {
+                        "startLines": "16,15,14,13,12,17,5,4,9,8,21,22,23,20,3,7,6",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "679,633,587,541,495,729,186,130,406,347,871,933,995,809,79,293,239",
+                        "endColumns": "49,45,45,45,45,47,52,55,63,58,61,61,63,61,50,53,53",
+                        "endOffsets": "724,674,628,582,536,772,234,181,465,401,928,990,1054,866,125,342,288"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,151,197,243,289,337,390,446,510,569,631,693,757,819,870,924",
+                        "endColumns": "49,45,45,45,45,47,52,55,63,58,61,61,63,61,50,53,53",
+                        "endOffsets": "100,146,192,238,284,332,385,441,505,564,626,688,752,814,865,919,973"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\values-night\\styles.xml",
+                    "from": {
+                        "startLines": "4,20,24,41,46,36,56,60,51,31",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "119,1293,1458,2376,2638,2138,3142,3314,2906,1900",
+                        "endLines": "18,22,29,44,49,39,58,63,54,34",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "1287,1452,1894,2632,2900,2370,3308,3554,3136,2132"
+                    },
+                    "to": {
+                        "startLines": "19,34,37,43,47,51,55,58,62,66",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "978,2151,2315,2756,3017,3284,3521,3692,3937,4172",
+                        "endLines": "33,36,42,46,50,54,57,61,65,69",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "2146,2310,2751,3012,3279,3516,3687,3932,4167,4404"
+                    }
+                }
+            ]
+        }
+    ]
+}

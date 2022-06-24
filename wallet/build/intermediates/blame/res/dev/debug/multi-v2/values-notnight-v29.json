@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\incremental\\mergeDevDebugResources\\merged.dir\\values-notnight-v29\\values-notnight-v29.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\values-notnight-v29\\colors.xml",
+                    "from": {
+                        "startLines": "10,5,4,7,6,3",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "447,210,142,346,275,79",
+                        "endColumns": "57,64,67,75,70,62",
+                        "endOffsets": "500,270,205,417,341,137"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,113,178,246,322,393",
+                        "endColumns": "57,64,67,75,70,62",
+                        "endOffsets": "108,173,241,317,388,451"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,471 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="de.langerhans.wallet.test"
+4    android:installLocation="internalOnly"
+5    android:versionCode="400"
+6    android:versionName="4.0.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="23"
+9-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml
+10        android:targetSdkVersion="29" />
+10-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml
+11
+12    <!-- normal permissions -->
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:9:5-67
+13-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:9:22-64
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:10:5-79
+14-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:10:22-76
+15    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+15-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:11:5-81
+15-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:11:22-78
+16    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+16-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:12:5-77
+16-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:12:22-74
+17    <uses-permission android:name="android.permission.BLUETOOTH" />
+17-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:13:5-68
+17-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:13:22-65
+18    <uses-permission android:name="android.permission.NFC" />
+18-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:14:5-62
+18-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:14:22-59
+19    <uses-permission android:name="android.permission.VIBRATE" />
+19-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:15:5-66
+19-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:15:22-63
+20    <uses-permission android:name="android.permission.WAKE_LOCK" />
+20-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:16:5-68
+20-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:16:22-65
+21
+22    <!-- dangerous permissions -->
+23    <uses-permission android:name="android.permission.CAMERA" /> <!-- group: CAMERA -->
+23-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:19:5-65
+23-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:19:22-62
+24
+25    <uses-feature
+25-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:21:5-23:36
+26        android:name="android.hardware.touchscreen"
+26-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:22:9-52
+27        android:required="false" />
+27-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:23:9-33
+28    <uses-feature
+28-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:24:5-26:36
+29        android:name="android.hardware.nfc"
+29-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:25:9-44
+30        android:required="false" />
+30-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:26:9-33
+31    <uses-feature
+31-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:27:5-29:36
+32        android:name="android.hardware.camera"
+32-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:28:9-47
+33        android:required="false" />
+33-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:29:9-33
+34    <uses-feature
+34-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:30:5-32:36
+35        android:name="android.hardware.camera.front"
+35-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:31:9-53
+36        android:required="false" />
+36-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:32:9-33
+37    <uses-feature
+37-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:33:5-35:36
+38        android:name="android.hardware.camera.autofocus"
+38-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:34:9-57
+39        android:required="false" />
+39-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:35:9-33
+40    <uses-feature
+40-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:36:5-38:36
+41        android:name="android.hardware.camera.flash"
+41-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:37:9-53
+42        android:required="false" />
+42-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:38:9-33
+43    <uses-feature
+43-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:39:5-41:36
+44        android:name="android.hardware.screen.landscape"
+44-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:40:9-57
+45        android:required="false" />
+45-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:41:9-33
+46    <uses-feature
+46-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:42:5-44:36
+47        android:name="android.hardware.bluetooth"
+47-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:43:9-50
+48        android:required="false" />
+48-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:44:9-33
+49    <uses-feature
+49-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:45:5-47:36
+50        android:name="android.software.app_widgets"
+50-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:46:9-52
+51        android:required="false" />
+51-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:47:9-33
+52
+53    <supports-screens
+53-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:49:5-54:40
+54        android:anyDensity="true"
+54-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:50:9-34
+55        android:largeScreens="true"
+55-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:51:9-36
+56        android:normalScreens="true"
+56-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:52:9-37
+57        android:smallScreens="true"
+57-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:53:9-36
+58        android:xlargeScreens="true" />
+58-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:54:9-37
+59
+60    <application
+60-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:56:5-228:19
+61        android:name="de.schildbach.wallet.WalletApplication"
+61-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:57:9-62
+62        android:allowBackup="false"
+62-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:59:9-36
+63        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+63-->[androidx.core:core:1.3.2] C:\Users\Jason\.gradle\caches\transforms-3\25d4c420cf36f50ca0d4c7915f77a5bb\transformed\core-1.3.2\AndroidManifest.xml:24:18-86
+64        android:debuggable="true"
+65        android:hasFragileUserData="true"
+65-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:58:9-42
+66        android:icon="@drawable/ic_app_color"
+66-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:60:9-46
+67        android:label="@string/app_name"
+67-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:61:9-41
+68        android:networkSecurityConfig="@xml/network_security_config" >
+68-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:62:9-69
+69        <activity
+69-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:64:9-70:58
+70            android:name="de.schildbach.wallet.ui.WalletActivity"
+70-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:65:13-66
+71            android:configChanges="keyboard|keyboardHidden"
+71-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:66:13-60
+72            android:exported="true"
+72-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:67:13-36
+73            android:label="@string/app_name_short"
+73-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:68:13-51
+74            android:launchMode="singleTask"
+74-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:69:13-44
+75            android:theme="@style/My.Theme.WithSplash" />
+75-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:70:13-55
+76
+77        <activity-alias
+77-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:71:9-86:26
+78            android:name="de.schildbach.wallet.WalletActivity"
+78-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:72:13-63
+79            android:targetActivity="de.schildbach.wallet.ui.WalletActivity" >
+79-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:73:13-76
+80            <intent-filter android:label="@string/app_name_short" >
+80-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:74:13-77:29
+80-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:74:28-66
+81                <action android:name="android.intent.action.MAIN" />
+81-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:75:17-69
+81-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:75:25-66
+82
+83                <category android:name="android.intent.category.LAUNCHER" />
+83-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:76:17-77
+83-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:76:27-74
+84            </intent-filter>
+85            <intent-filter>
+85-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:78:13-82:29
+86                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
+86-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:79:17-77
+86-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:79:25-74
+87
+88                <data android:mimeType="application/x-dogetx" />
+88-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:80:17-65
+88-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:80:23-62
+89
+90                <category android:name="android.intent.category.DEFAULT" />
+90-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:81:17-76
+90-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:81:27-73
+91            </intent-filter>
+92
+93            <meta-data
+93-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:83:13-85:53
+94                android:name="android.app.shortcuts"
+94-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:84:17-53
+95                android:resource="@xml/shortcuts" />
+95-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:85:17-50
+96        </activity-alias>
+97
+98        <activity
+98-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:88:9-116:20
+99            android:name="de.schildbach.wallet.ui.send.SendCoinsActivity"
+99-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:89:13-74
+100            android:configChanges="keyboard|keyboardHidden"
+100-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:90:13-60
+101            android:label="@string/send_coins_activity_title"
+101-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:91:13-62
+102            android:theme="@style/My.Theme.ChildActivity"
+102-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:92:13-58
+103            android:windowSoftInputMode="adjustResize" >
+103-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:93:13-55
+104            <intent-filter android:label="@string/send_coins_activity_title" >
+104-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:94:13-100:29
+104-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:94:28-77
+105                <action android:name="android.intent.action.VIEW" />
+105-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:95:17-69
+105-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:95:25-66
+106
+107                <data android:scheme="dogecoin" />
+107-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:80:17-65
+107-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:96:23-48
+108                <data android:scheme="DOGECOIN" />
+108-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:80:17-65
+108-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:96:23-48
+109
+110                <category android:name="android.intent.category.DEFAULT" />
+110-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:81:17-76
+110-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:81:27-73
+111                <category android:name="android.intent.category.BROWSABLE" />
+111-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:99:17-78
+111-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:99:27-75
+112            </intent-filter>
+113            <intent-filter android:label="@string/send_coins_activity_title" >
+113-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:101:13-105:29
+113-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:101:28-77
+114                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
+114-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:79:17-77
+114-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:79:25-74
+115
+116                <data android:scheme="dogecoin" />
+116-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:80:17-65
+116-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:96:23-48
+117
+118                <category android:name="android.intent.category.DEFAULT" />
+118-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:81:17-76
+118-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:81:27-73
+119            </intent-filter>
+120            <intent-filter android:label="@string/send_coins_activity_title" >
+120-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:106:13-110:29
+120-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:106:28-77
+121                <action android:name="android.intent.action.VIEW" />
+121-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:95:17-69
+121-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:95:25-66
+122
+123                <data android:mimeType="application/vnd.doge.payment.request" />
+123-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:80:17-65
+123-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:80:23-62
+124
+125                <category android:name="android.intent.category.DEFAULT" />
+125-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:81:17-76
+125-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:81:27-73
+126            </intent-filter>
+127            <intent-filter android:label="@string/send_coins_activity_title" >
+127-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:111:13-115:29
+127-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:111:28-77
+128                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
+128-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:79:17-77
+128-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:79:25-74
+129
+130                <data android:mimeType="application/vnd.doge.payment.request" />
+130-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:80:17-65
+130-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:80:23-62
+131
+132                <category android:name="android.intent.category.DEFAULT" />
+132-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:81:17-76
+132-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:81:27-73
+133            </intent-filter>
+134        </activity>
+135        <activity
+135-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:118:9-122:20
+136            android:name="de.schildbach.wallet.ui.SendCoinsQrActivity"
+136-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:119:13-71
+137            android:configChanges="keyboard|keyboardHidden"
+137-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:120:13-60
+138            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+138-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:121:13-72
+139        </activity>
+140        <activity
+140-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:124:9-129:58
+141            android:name="de.schildbach.wallet.ui.RequestCoinsActivity"
+141-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:125:13-72
+142            android:configChanges="keyboard|keyboardHidden"
+142-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:126:13-60
+143            android:label="@string/request_coins_activity_title"
+143-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:127:13-65
+144            android:theme="@style/My.Theme.ChildActivity"
+144-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:128:13-58
+145            android:windowSoftInputMode="adjustResize" />
+145-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:129:13-55
+146        <activity
+146-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:131:9-135:61
+147            android:name="de.schildbach.wallet.ui.AddressBookActivity"
+147-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:132:13-71
+148            android:configChanges="keyboard|keyboardHidden"
+148-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:133:13-60
+149            android:label="@string/address_book_activity_title"
+149-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:134:13-64
+150            android:theme="@style/My.Theme.ChildActivity" />
+150-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:135:13-58
+151        <activity
+151-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:137:9-141:61
+152            android:name="de.schildbach.wallet.ui.ExchangeRatesActivity"
+152-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:138:13-73
+153            android:configChanges="keyboard|keyboardHidden"
+153-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:139:13-60
+154            android:label="@string/exchange_rates_activity_title"
+154-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:140:13-66
+155            android:theme="@style/My.Theme.ChildActivity" />
+155-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:141:13-58
+156        <activity
+156-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:143:9-147:61
+157            android:name="de.schildbach.wallet.ui.monitor.NetworkMonitorActivity"
+157-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:144:13-82
+158            android:configChanges="keyboard|keyboardHidden"
+158-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:145:13-60
+159            android:label="@string/network_monitor_activity_title"
+159-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:146:13-67
+160            android:theme="@style/My.Theme.ChildActivity" />
+160-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:147:13-58
+161        <activity
+161-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:149:9-152:61
+162            android:name="de.schildbach.wallet.ui.preference.PreferenceActivity"
+162-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:150:13-81
+163            android:label="@string/preferences_activity_title"
+163-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:151:13-63
+164            android:theme="@style/My.Theme.ChildActivity" />
+164-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:152:13-58
+165        <activity
+165-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:154:9-157:54
+166            android:name="de.schildbach.wallet.ui.backup.BackupWalletActivity"
+166-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:155:13-79
+167            android:configChanges="orientation|keyboard|keyboardHidden"
+167-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:156:13-72
+168            android:theme="@style/My.Theme.Dialog" />
+168-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:157:13-51
+169        <activity
+169-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:159:9-168:20
+170            android:name="de.schildbach.wallet.ui.backup.RestoreWalletFromExternalActivity"
+170-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:160:13-92
+171            android:configChanges="orientation|keyboard|keyboardHidden"
+171-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:161:13-72
+172            android:theme="@style/My.Theme.Dialog" >
+172-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:162:13-51
+173            <intent-filter android:label="@string/import_keys_intent_filter_action" >
+173-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:163:13-167:29
+173-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:163:28-84
+174                <action android:name="android.intent.action.VIEW" />
+174-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:95:17-69
+174-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:95:25-66
+175
+176                <category android:name="android.intent.category.DEFAULT" />
+176-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:81:17-76
+176-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:81:27-73
+177
+178                <data android:mimeType="application/x-dogecoin-wallet-backup" />
+178-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:80:17-65
+178-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:80:23-62
+179            </intent-filter>
+180        </activity>
+181        <activity
+181-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:170:9-175:63
+182            android:name="de.schildbach.wallet.ui.scan.ScanActivity"
+182-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:171:13-69
+183            android:configChanges="keyboard|keyboardHidden"
+183-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:172:13-60
+184            android:stateNotNeeded="true"
+184-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:173:13-42
+185            android:theme="@style/My.Theme.Fullscreen"
+185-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:174:13-55
+186            android:windowSoftInputMode="stateAlwaysHidden" />
+186-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:175:13-60
+187        <activity
+187-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:177:9-182:58
+188            android:name="de.schildbach.wallet.ui.send.SweepWalletActivity"
+188-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:178:13-76
+189            android:configChanges="keyboard|keyboardHidden"
+189-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:179:13-60
+190            android:label="@string/sweep_wallet_activity_title"
+190-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:180:13-64
+191            android:theme="@style/My.Theme.ChildActivity"
+191-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:181:13-58
+192            android:windowSoftInputMode="adjustResize" />
+192-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:182:13-55
+193
+194        <provider
+195            android:name="androidx.core.content.FileProvider"
+195-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:185:13-62
+196            android:authorities="de.langerhans.wallet.test.file_attachment"
+196-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:186:13-67
+197            android:exported="false"
+197-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:187:13-37
+198            android:grantUriPermissions="true" >
+198-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:188:13-47
+199            <meta-data
+199-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:189:13-191:57
+200                android:name="android.support.FILE_PROVIDER_PATHS"
+200-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:190:17-67
+201                android:resource="@xml/file_provider" />
+201-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:191:17-54
+202        </provider>
+203
+204        <receiver
+204-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:194:9-203:20
+205            android:name="de.schildbach.wallet.WalletBalanceWidgetProvider"
+205-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:195:13-76
+206            android:label="@string/appwidget_wallet_balance_title" >
+206-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:196:13-67
+207            <intent-filter>
+207-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:197:13-199:29
+208                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+208-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:198:17-84
+208-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:198:25-81
+209            </intent-filter>
+210
+211            <meta-data
+211-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:200:13-202:65
+212                android:name="android.appwidget.provider"
+212-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:201:17-58
+213                android:resource="@xml/wallet_balance_widget" />
+213-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:202:17-62
+214        </receiver>
+215
+216        <service
+216-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:205:9-207:72
+217            android:name="de.schildbach.wallet.service.StartBlockchainService"
+217-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:206:13-79
+218            android:permission="android.permission.BIND_JOB_SERVICE" />
+218-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:207:13-69
+219        <service
+219-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:208:9-210:40
+220            android:name="de.schildbach.wallet.service.BlockchainService"
+220-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:209:13-74
+221            android:exported="false" />
+221-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:210:13-37
+222        <service
+222-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:212:9-214:40
+223            android:name="de.schildbach.wallet.offline.AcceptBluetoothService"
+223-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:213:13-79
+224            android:exported="false" />
+224-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:214:13-37
+225
+226        <receiver android:name="de.schildbach.wallet.service.BootstrapReceiver" >
+226-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:216:9-223:20
+226-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:216:19-80
+227            <intent-filter>
+227-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:217:13-219:29
+228                <action android:name="android.intent.action.BOOT_COMPLETED" />
+228-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:218:17-79
+228-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:218:25-76
+229            </intent-filter>
+230            <intent-filter>
+230-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:220:13-222:29
+231                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+231-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:221:17-84
+231-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:221:25-81
+232            </intent-filter>
+233        </receiver>
+234
+235        <meta-data
+235-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:225:9-227:36
+236            android:name="android.nfc.disable_beam_default"
+236-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:226:13-60
+237            android:value="true" />
+237-->C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\AndroidManifest.xml:227:13-33
+238
+239        <service
+239-->[androidx.room:room-runtime:2.2.5] C:\Users\Jason\.gradle\caches\transforms-3\5f845b19751211eef0476b31395d4c6b\transformed\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+240            android:name="androidx.room.MultiInstanceInvalidationService"
+240-->[androidx.room:room-runtime:2.2.5] C:\Users\Jason\.gradle\caches\transforms-3\5f845b19751211eef0476b31395d4c6b\transformed\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+241            android:directBootAware="true"
+241-->[androidx.room:room-runtime:2.2.5] C:\Users\Jason\.gradle\caches\transforms-3\5f845b19751211eef0476b31395d4c6b\transformed\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+242            android:exported="false" />
+242-->[androidx.room:room-runtime:2.2.5] C:\Users\Jason\.gradle\caches\transforms-3\5f845b19751211eef0476b31395d4c6b\transformed\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+243    </application>
+244
+245</manifest>

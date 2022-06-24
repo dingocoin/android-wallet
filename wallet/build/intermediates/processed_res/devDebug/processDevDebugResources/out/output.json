@@ -1,0 +1,1 @@
+[{"outputType":{"type":"PROCESSED_RES"},"apkData":{"type":"MAIN","splits":[],"versionCode":400,"versionName":"4.0.0","enabled":true,"outputFile":"dogecoin-wallet-dev-debug.apk","fullName":"devDebug","baseName":"dev-debug"},"path":"resources-devDebug.ap_","properties":{"packageId":"de.langerhans.wallet.test","split":"","minSdkVersion":"23"}}]

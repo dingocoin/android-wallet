@@ -1,0 +1,722 @@
+[
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\menu_wallet_transactions_fragment_options.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\menu\\wallet_transactions_fragment_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\raw_coins_received.mp3.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\raw\\coins_received.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_wallet_addresses_fragment.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\wallet_addresses_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\25d4c420cf36f50ca0d4c7915f77a5bb\\transformed\\core-1.3.2\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_shortcut_request_coins.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable\\shortcut_request_coins.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\25d4c420cf36f50ca0d4c7915f77a5bb\\transformed\\core-1.3.2\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\anim_fragment_fade_exit.xml.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\067b0acd086c0ae3e4c59b8c91f8e2ca\\transformed\\fragment-1.2.5\\res\\anim\\fragment_fade_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi_stat_notify_1_peers_24dp.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-anydpi\\stat_notify_1_peers_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_custom_dialog.xml.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\25d4c420cf36f50ca0d4c7915f77a5bb\\transformed\\core-1.3.2\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xxxhdpi_ic_pink.png.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\mipmap-xxxhdpi\\ic_pink.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\xml_preference_about.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\xml\\preference_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi_stat_notify_received_24dp.png.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-xxhdpi\\stat_notify_received_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\raw_send_coins_broadcast_2.mp3.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\raw\\send_coins_broadcast_2.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi_ic_warning_grey600_24dp.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-anydpi\\ic_warning_grey600_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi_ic_send_flipped_white_24dp.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-anydpi\\ic_send_flipped_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi_stat_notify_0_peers_24dp.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-anydpi\\stat_notify_0_peers_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_wallet_disclaimer_fragment.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\wallet_disclaimer_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi_ic_delete_white_24dp.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-anydpi\\ic_delete_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_dialog_title.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\dialog_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\xml_file_provider.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\xml\\file_provider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_send_coins_content.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\send_coins_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\25d4c420cf36f50ca0d4c7915f77a5bb\\transformed\\core-1.3.2\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\menu_request_coins_activity_options.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\menu\\request_coins_activity_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_report_issue_dialog.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\report_issue_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\25d4c420cf36f50ca0d4c7915f77a5bb\\transformed\\core-1.3.2\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xhdpi_widget_preview.png.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-xhdpi\\widget_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_spinner_item.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\menu_wallet_addresses_context.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\menu\\wallet_addresses_context.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\menu_exchange_rates_context.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\menu\\exchange_rates_context.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_restore_wallet_dialog.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\restore_wallet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\raw_send_coins_broadcast_3.mp3.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\raw\\send_coins_broadcast_3.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_block_row.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\block_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-mdpi_ic_app_color_48dp.png.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\mipmap-mdpi\\ic_app_color_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\25d4c420cf36f50ca0d4c7915f77a5bb\\transformed\\core-1.3.2\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_address_book_row.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\address_book_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\menu_address_book_activity_options.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\menu\\address_book_activity_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xxhdpi_ic_pink.png.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\mipmap-xxhdpi\\ic_pink.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-hdpi_stat_notify_received_24dp.png.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-hdpi\\stat_notify_received_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_divider_currency.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable\\divider_currency.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\anim_slide_in_top.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\anim\\slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-mdpi_stat_notify_received_24dp.png.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-mdpi\\stat_notify_received_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_address_book_content.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\address_book_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_exchange_rates_content.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\exchange_rates_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\menu_send_coins_activity_options.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\menu\\send_coins_activity_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\25d4c420cf36f50ca0d4c7915f77a5bb\\transformed\\core-1.3.2\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\anim_fragment_open_enter.xml.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\067b0acd086c0ae3e4c59b8c91f8e2ca\\transformed\\fragment-1.2.5\\res\\anim\\fragment_open_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi_ic_content_copy_white_24dp.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-anydpi\\ic_content_copy_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\xml_preference_diagnostics.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\xml\\preference_diagnostics.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_extended_public_key_dialog.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\extended_public_key_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_exchange_rate_row.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\exchange_rate_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_sending_addresses_fragment.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\sending_addresses_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\animator_fade_in_view.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\animator\\fade_in_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi_ic_refresh_white_24dp.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-anydpi\\ic_refresh_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi_stat_notify_3_peers_24dp.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-anydpi\\stat_notify_3_peers_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\25d4c420cf36f50ca0d4c7915f77a5bb\\transformed\\core-1.3.2\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\menu_sending_addresses_context.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\menu\\sending_addresses_context.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_transaction_row_warning.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\transaction_row_warning.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_row_separator.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\row_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_floating_action_button_background.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable\\floating_action_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_shortcut_send_coins.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable\\shortcut_send_coins.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_edit_address_book_entry_dialog.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\edit_address_book_entry_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_divider_field.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable\\divider_field.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_scan_activity.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\scan_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\raw_send_coins_broadcast_4.mp3.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\raw\\send_coins_broadcast_4.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_block_list_fragment.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\block_list_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_transaction_row_card.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\transaction_row_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi_ic_filter_list_white_24dp.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-anydpi\\ic_filter_list_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\anim-v21_fragment_fast_out_extra_slow_in.xml.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\067b0acd086c0ae3e4c59b8c91f8e2ca\\transformed\\fragment-1.2.5\\res\\anim-v21\\fragment_fast_out_extra_slow_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\anim_transaction_layout_anim.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\anim\\transaction_layout_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-hdpi_ic_app_color_48dp.png.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\mipmap-hdpi\\ic_app_color_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\raw_send_coins_broadcast_1.mp3.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\raw\\send_coins_broadcast_1.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\xml_wallet_balance_widget.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\xml\\wallet_balance_widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi_ic_create_white_24dp.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-anydpi\\ic_create_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\25d4c420cf36f50ca0d4c7915f77a5bb\\transformed\\core-1.3.2\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_action_mode_background.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable\\action_mode_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-hdpi_ic_pink.png.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\mipmap-hdpi\\ic_pink.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\animator_fade_out_drawable.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\animator\\fade_out_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\menu_wallet_balance_fragment_options.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\menu\\wallet_balance_fragment_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xhdpi_ic_pink.png.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\mipmap-xhdpi\\ic_pink.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_sweep_wallet_fragment.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\sweep_wallet_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi_stat_notify_2_peers_24dp.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-anydpi\\stat_notify_2_peers_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\25d4c420cf36f50ca0d4c7915f77a5bb\\transformed\\core-1.3.2\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\anim_fragment_close_exit.xml.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\067b0acd086c0ae3e4c59b8c91f8e2ca\\transformed\\fragment-1.2.5\\res\\anim\\fragment_close_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\25d4c420cf36f50ca0d4c7915f77a5bb\\transformed\\core-1.3.2\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\menu_wallet_options.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\menu\\wallet_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_backup_wallet_dialog.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\backup_wallet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\menu_blocks_context.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\menu\\blocks_context.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\color_bg_list_card_transaction.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\color\\bg_list_card_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_maintenance_dialog.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\maintenance_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_wallet_balance_fragment.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\wallet_balance_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_background_splash.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable\\background_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\xml_preference_headers.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\xml\\preference_headers.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_wallet_transactions_fragment.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\wallet_transactions_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_wallet_balance_widget_content.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\wallet_balance_widget_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi_ic_qrcode_white_24dp.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-anydpi\\ic_qrcode_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xhdpi_currency_symbol_ubtc.png.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-xhdpi\\currency_symbol_ubtc.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\xml_preference_settings.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\xml\\preference_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_wallet_activity_bottom_include.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\wallet_activity_bottom_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi_ic_clear_grey600_24dp.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-anydpi\\ic_clear_grey600_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\color_bg_list_card.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\color\\bg_list_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_appwidget_background.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable\\appwidget_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xhdpi_ic_app_color_48dp.png.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\mipmap-xhdpi\\ic_app_color_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\25d4c420cf36f50ca0d4c7915f77a5bb\\transformed\\core-1.3.2\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xhdpi_currency_symbol_mbtc.png.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-xhdpi\\currency_symbol_mbtc.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_transactions_list_filter_received.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable\\transactions_list_filter_received.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\menu_exchange_rates_fragment_options.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\menu\\exchange_rates_fragment_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_sweep_wallet_content.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\sweep_wallet_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xhdpi_currency_symbol_btc.png.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-xhdpi\\currency_symbol_btc.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi_ic_send_white_24dp.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-anydpi\\ic_send_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_wallet_activity_onepane_horizontal.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\wallet_activity_onepane_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_transaction_row.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\transaction_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_peer_list_row.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\peer_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\25d4c420cf36f50ca0d4c7915f77a5bb\\transformed\\core-1.3.2\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi_stat_notify_received_24dp.png.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-xxxhdpi\\stat_notify_received_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\menu_request_coins_fragment_options.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\menu\\request_coins_fragment_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_shortcut_scan_qr.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable\\shortcut_scan_qr.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_raise_fee_dialog.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\raise_fee_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_send_coins_fragment.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\send_coins_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi_ic_photo_camera_white_24dp.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-anydpi\\ic_photo_camera_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_send_coins_address_row.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\send_coins_address_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_network_monitor_content.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\network_monitor_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\25d4c420cf36f50ca0d4c7915f77a5bb\\transformed\\core-1.3.2\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_peer_list_fragment.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\peer_list_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_wallet_actions_fragment.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\wallet_actions_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi_ic_send_flipped_shortcut_24dp.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-anydpi\\ic_send_flipped_shortcut_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\menu_sweep_wallet_fragment_options.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\menu\\sweep_wallet_fragment_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_wallet_activity_onepane_vertical.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\wallet_activity_onepane_vertical.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi_ic_send_shortcut_24dp.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-anydpi\\ic_send_shortcut_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_wallet_address_dialog.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\wallet_address_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi_stat_notify_4_peers_24dp.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-anydpi\\stat_notify_4_peers_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-mdpi_ic_pink.png.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\mipmap-mdpi\\ic_pink.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\25d4c420cf36f50ca0d4c7915f77a5bb\\transformed\\core-1.3.2\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi_ic_sync_white_24dp.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-anydpi\\ic_sync_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\anim_fragment_fade_enter.xml.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\067b0acd086c0ae3e4c59b8c91f8e2ca\\transformed\\fragment-1.2.5\\res\\anim\\fragment_fade_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_request_coins_content.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\request_coins_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_encrypt_keys_dialog.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\encrypt_keys_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\25d4c420cf36f50ca0d4c7915f77a5bb\\transformed\\core-1.3.2\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\menu_wallet_transactions_context.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\menu\\wallet_transactions_context.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_divider_dark.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable\\divider_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\25d4c420cf36f50ca0d4c7915f77a5bb\\transformed\\core-1.3.2\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_request_coins_fragment.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\request_coins_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\25d4c420cf36f50ca0d4c7915f77a5bb\\transformed\\core-1.3.2\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi_ic_photo_camera_shortcut_24dp.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-anydpi\\ic_photo_camera_shortcut_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout-land_request_coins_fragment.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout-land\\request_coins_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_request_coins_form_include.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\request_coins_form_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_wallet_address_fragment.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\wallet_address_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_transactions_list_filter_sent.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable\\transactions_list_filter_sent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi_ic_open_in_browser_white_24dp.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-anydpi\\ic_open_in_browser_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\25d4c420cf36f50ca0d4c7915f77a5bb\\transformed\\core-1.3.2\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\25d4c420cf36f50ca0d4c7915f77a5bb\\transformed\\core-1.3.2\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\25d4c420cf36f50ca0d4c7915f77a5bb\\transformed\\core-1.3.2\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\25d4c420cf36f50ca0d4c7915f77a5bb\\transformed\\core-1.3.2\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\animator_fade_in_drawable.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\animator\\fade_in_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\menu_send_coins_fragment_options.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\menu\\send_coins_fragment_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\25d4c420cf36f50ca0d4c7915f77a5bb\\transformed\\core-1.3.2\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\anim_fragment_open_exit.xml.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\067b0acd086c0ae3e4c59b8c91f8e2ca\\transformed\\fragment-1.2.5\\res\\anim\\fragment_open_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\25d4c420cf36f50ca0d4c7915f77a5bb\\transformed\\core-1.3.2\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi_ic_share_white_24dp.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-anydpi\\ic_share_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_exchange_rates_fragment.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\exchange_rates_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\color_fg_on_dark_bg_network.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\color\\fg_on_dark_bg_network.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi_stat_notify_bluetooth_24dp.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-anydpi\\stat_notify_bluetooth_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_bitmap_dialog.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\bitmap_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\xml_shortcuts.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\xml\\shortcuts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_block_row_transaction.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\block_row_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi_ic_local_offer_white_24dp.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-anydpi\\ic_local_offer_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\25d4c420cf36f50ca0d4c7915f77a5bb\\transformed\\core-1.3.2\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\25d4c420cf36f50ca0d4c7915f77a5bb\\transformed\\core-1.3.2\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xxxhdpi_ic_app_color_48dp.png.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\mipmap-xxxhdpi\\ic_app_color_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_send_coins_buttons_include.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\send_coins_buttons_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xhdpi_stat_notify_received_24dp.png.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-xhdpi\\stat_notify_received_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi_ic_search_white_24dp.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable-anydpi\\ic_search_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\25d4c420cf36f50ca0d4c7915f77a5bb\\transformed\\core-1.3.2\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\anim_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xxhdpi_ic_app_color_48dp.png.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\mipmap-xxhdpi\\ic_app_color_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\layout_wallet_activity_twopanes.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\layout\\wallet_activity_twopanes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\anim_fragment_close_enter.xml.flat",
+        "source": "C:\\Users\\Jason\\.gradle\\caches\\transforms-3\\067b0acd086c0ae3e4c59b8c91f8e2ca\\transformed\\fragment-1.2.5\\res\\anim\\fragment_close_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_stat_notify_peers.xml.flat",
+        "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\drawable\\stat_notify_peers.xml"
+    }
+]

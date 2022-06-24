@@ -1,0 +1,3 @@
+C:/Users/Jason/OneDrive/Documents/Studio/dogecoin-wallet-new/wallet/.cxx/cmake/devDebug/x86/CMakeFiles/scrypt.dir
+C:/Users/Jason/OneDrive/Documents/Studio/dogecoin-wallet-new/wallet/.cxx/cmake/devDebug/x86/CMakeFiles/edit_cache.dir
+C:/Users/Jason/OneDrive/Documents/Studio/dogecoin-wallet-new/wallet/.cxx/cmake/devDebug/x86/CMakeFiles/rebuild_cache.dir

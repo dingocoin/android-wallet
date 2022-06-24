@@ -1,0 +1,9 @@
+# ninja log v5
+21	207	0	CMakeFiles/scrypt.dir/scrypt_jni.c.o	deda45c2c6795dd6
+24	228	0	CMakeFiles/scrypt.dir/crypto_scrypt-nosse.c.o	ec404c5ada4147c
+1	270	0	CMakeFiles/scrypt.dir/sha256.c.o	6b4049f2b184b8b
+270	3108	0	C:/Users/Jason/OneDrive/Documents/Studio/dogecoin-wallet-new/wallet/build/intermediates/cmake/devDebug/obj/x86/libscrypt.so	318c186e40479eb0
+31	469	0	CMakeFiles/scrypt.dir/scrypt_jni.c.o	deda45c2c6795dd6
+9	475	0	CMakeFiles/scrypt.dir/crypto_scrypt-nosse.c.o	ec404c5ada4147c
+33	484	0	CMakeFiles/scrypt.dir/sha256.c.o	6b4049f2b184b8b
+484	3847	0	C:/Users/Jason/OneDrive/Documents/Studio/dogecoin-wallet-new/wallet/build/intermediates/cmake/devDebug/obj/x86/libscrypt.so	318c186e40479eb0

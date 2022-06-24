@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\incremental\\mergeDevDebugResources\\merged.dir\\values-w720dp-v13\\values-w720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\values-w720dp\\layouts.xml",
+                    "from": {
+                        "startLines": "3,4,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "141,210,55",
+                        "endColumns": "68,59,85",
+                        "endOffsets": "205,265,136"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,124,184",
+                        "endColumns": "68,59,85",
+                        "endOffsets": "119,179,265"
+                    }
+                }
+            ]
+        }
+    ]
+}

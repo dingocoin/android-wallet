@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\build\\intermediates\\incremental\\mergeDevDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\res\\values-sw720dp\\dimens.xml",
+                    "from": {
+                        "startLines": "17,14,6,5,4,3,2,9,8,10,12,11,13,16,7,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "880,715,243,196,148,101,55,404,339,465,593,530,652,826,289,771",
+                        "endColumns": "53,55,45,46,47,46,45,60,64,64,58,62,62,53,49,54",
+                        "endOffsets": "929,766,284,238,191,143,96,460,399,525,647,588,710,875,334,821"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,109,165,211,258,306,353,399,460,525,590,649,712,775,829,879",
+                        "endColumns": "53,55,45,46,47,46,45,60,64,64,58,62,62,53,49,54",
+                        "endOffsets": "104,160,206,253,301,348,394,455,520,585,644,707,770,824,874,929"
+                    }
+                }
+            ]
+        }
+    ]
+}

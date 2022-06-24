@@ -1,0 +1,53 @@
+
+{
+	"buildFiles" : 
+	[
+		"C:/Users/Jason/OneDrive/Documents/Studio/dogecoin-wallet-new/wallet/cpp/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\Jason\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\.cxx\\cmake\\devDebug\\armeabi-v7a --target clean"
+	],
+	"libraries" : 
+	{
+		"scrypt-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "scrypt",
+			"buildCommand" : "C:\\Users\\Jason\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\.cxx\\cmake\\devDebug\\armeabi-v7a --target scrypt",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi23 --sysroot=C:/Users/Jason/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dscrypt_EXPORTS -IC:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\cpp\\.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -DHAVE_CONFIG_H -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "C:/Users/Jason/OneDrive/Documents/Studio/dogecoin-wallet-new/wallet/cpp/scrypt_jni.c",
+					"workingDirectory" : "C:/Users/Jason/OneDrive/Documents/Studio/dogecoin-wallet-new/wallet/.cxx/cmake/devDebug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi23 --sysroot=C:/Users/Jason/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dscrypt_EXPORTS -IC:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\cpp\\.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -DHAVE_CONFIG_H -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "C:/Users/Jason/OneDrive/Documents/Studio/dogecoin-wallet-new/wallet/cpp/crypto_scrypt-nosse.c",
+					"workingDirectory" : "C:/Users/Jason/OneDrive/Documents/Studio/dogecoin-wallet-new/wallet/.cxx/cmake/devDebug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi23 --sysroot=C:/Users/Jason/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dscrypt_EXPORTS -IC:\\Users\\Jason\\OneDrive\\Documents\\Studio\\dogecoin-wallet-new\\wallet\\cpp\\.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -DHAVE_CONFIG_H -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "C:/Users/Jason/OneDrive/Documents/Studio/dogecoin-wallet-new/wallet/cpp/sha256.c",
+					"workingDirectory" : "C:/Users/Jason/OneDrive/Documents/Studio/dogecoin-wallet-new/wallet/.cxx/cmake/devDebug/armeabi-v7a"
+				}
+			],
+			"output" : "C:/Users/Jason/OneDrive/Documents/Studio/dogecoin-wallet-new/wallet/build/intermediates/cmake/devDebug/obj/armeabi-v7a/libscrypt.so",
+			"toolchain" : "1867777577"
+		}
+	},
+	"toolchains" : 
+	{
+		"1867777577" : 
+		{
+			"cCompilerExecutable" : "C:/Users/Jason/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/Jason/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

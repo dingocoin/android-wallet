@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dogecoin Wallet</string>
+    <string name="app_name_short">Dogecoin</string>
+
+    <string-array name="preferences_block_explorer_values">
+        <item>https://sochain.com/%s/DOGE/</item>
+        <item>https://live.blockcypher.com/doge/%s/</item>
+    </string-array>
+    <string-array name="preferences_block_explorer_labels">
+        <item>SoChain</item>
+        <item>BlockCypher</item>
+    </string-array>
+</resources>

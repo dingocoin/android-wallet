@@ -1,0 +1,8 @@
+Executable : C:\Users\Jason\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+--build
+C:\Users\Jason\OneDrive\Documents\Studio\dogecoin-wallet-new\wallet\.cxx\cmake\devDebug\arm64-v8a
+--target
+scrypt
+jvmArgs : 
+
